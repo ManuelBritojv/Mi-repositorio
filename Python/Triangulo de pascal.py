@@ -1,6 +1,7 @@
 def pascal():
-    a = 0; b = 1; c = 0
-    a = 0; b = 1 ; d = 1; c = 0
+    begin = 0; a = 1; final = 0; vuelta = 4; valorVuelta = 0
+    while valorVuelta < vuelta:
+        print
     
     
 
