@@ -1,7 +1,3 @@
-from re import A
-from xml.etree.ElementTree import Comment
-
-
 def fibonacci():
     arr = [0,1]
     while len(arr) < 50:
