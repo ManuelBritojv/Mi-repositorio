@@ -11,4 +11,4 @@ def fib(d):
         return
 
 
-fib(100)
+fib(10)
